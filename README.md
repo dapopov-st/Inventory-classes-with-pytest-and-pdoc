@@ -15,5 +15,5 @@ pdoc resources.py from computer_builds/models directory
 
 ![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/main/directory_struct.png?raw=true)
 
-Many thanks to Fred [Baptiste](https://www.udemy.com/user/fredbaptiste/) for problem definition and teaching many of the necessary techniques] 
+Many thanks to Fred [Baptiste](https://www.udemy.com/user/fredbaptiste/) for problem definition and teaching many of the necessary techniques
 
