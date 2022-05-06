@@ -6,6 +6,8 @@ specific type of CPU. Channel may also purchase additional CPUs, or retire some.
 The tests are performed with Pytest.
 Documentation can be generated at the command line by running
 pdoc resources.py from computer_builds directory
+or clicking on
+https://htmlpreview.github.io/?https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/main/computer_builds.models.resources%20API%20documentation.html
 
 The directory structure is below.
 
