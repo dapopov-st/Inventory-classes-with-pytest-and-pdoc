@@ -4,9 +4,13 @@ When a CPU is taken from the pool, it will be indicated using the object that tr
 specific type of CPU. Channel may also purchase additional CPUs, or retire some.
 
 The tests are performed with Pytest.
+
 Documentation can be generated at the command line by running
+pip install pdoc (if not already installed), then
 pdoc resources.py from computer_builds/models directory
 
+
+[Documentation](https://dapopov-st.github.io/Inventory-classes-with-pytest-and-pdoc/#Resources.category)
 The directory structure is below.
 
 ![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/main/directory_struct.png?raw=true)
