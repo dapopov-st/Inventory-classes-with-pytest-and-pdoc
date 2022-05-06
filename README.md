@@ -7,7 +7,7 @@ The tests are performed with Pytest.
 Documentation can be generated at the command line by running
 pdoc resources.py from computer_builds directory
 
-![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/[branch]/directory_struct.jpg?raw=true)
+![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/[branch]/directory_struct.png?raw=true)
 
 Inheritance_Project
 ├── Project\ 3\ -\ Description.ipynb
