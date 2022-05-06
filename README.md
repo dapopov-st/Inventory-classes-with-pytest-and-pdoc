@@ -7,7 +7,7 @@ The tests are performed with Pytest.
 Documentation can be generated at the command line by running
 pdoc resources.py from computer_builds directory
 
-The directory sturcture is below.
+The directory structure is below.
 
 ![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/main/directory_struct.png?raw=true)
 
