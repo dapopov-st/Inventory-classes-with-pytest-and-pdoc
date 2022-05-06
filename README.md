@@ -4,6 +4,10 @@ When a CPU is taken from the pool, it will be indicated using the object that tr
 specific type of CPU. Channel may also purchase additional CPUs, or retire some.
 
 The tests are performed with Pytest.
+Documentation can be generated at the command line by running
+pdoc resources.py from computer_builds directory
+
+![alt text](https://github.com/[dapopov-st]/[Inventory-classes-with-pytest-and-pdoc]/blob/[branch]/directory_struct.jpg?raw=true)
 
 Inheritance_Project
 ├── Project\ 3\ -\ Description.ipynb
