@@ -11,7 +11,7 @@ pdoc resources.py from computer_builds/models directory
 
 
 [Documentation](https://dapopov-st.github.io/Inventory-classes-with-pytest-and-pdoc/#Resources.category)
-The directory structure is below.
+<br/>The directory structure is below.
 
 ![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/main/directory_struct.png?raw=true)
 
