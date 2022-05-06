@@ -1523,18 +1523,5 @@ interface (str): SSD's interface (e.g. <code>PCIe NVMe 3.0 x4</code>)</p>
                             </div>
                 </section>
     </main>
-<script>
-    /* Periodically check with the pdoc server if there have been any changes. */
-    let mtime_generated = "1651853508.6",
-        url = new URL(window.location);
-    url.searchParams.set("mtime", 1);
-    window.setInterval(function () {
-        fetch(url.toString())
-            .then(response => response.text())
-            .then(mtime => {
-                if (mtime_generated !== mtime)
-                    location.reload();
-            });
-    }, 1000);
-</script>
+
 </body></html>
