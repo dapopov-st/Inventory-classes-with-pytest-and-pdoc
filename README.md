@@ -11,7 +11,7 @@ pdoc resources.py from computer_builds/models directory
 
 
 [Documentation](https://dapopov-st.github.io/Inventory-classes-with-pytest-and-pdoc/#Resources.category)
-<br/>The directory structure is below. The __init__.py files are not strictly necessary, but help with pytest and pdoc usage.
+<br/>The directory structure is below. The `__init__.py` files are not strictly necessary, but help with pytest and pdoc usage.
 
 ![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/main/directory_struct.png?raw=true)
 
