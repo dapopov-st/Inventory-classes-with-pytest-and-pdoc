@@ -7,23 +7,7 @@ The tests are performed with Pytest.
 Documentation can be generated at the command line by running
 pdoc resources.py from computer_builds directory
 
+The directory sturcture is below.
+
 ![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/main/directory_struct.png?raw=true)
 
-Inheritance_Project
-├── Project\ 3\ -\ Description.ipynb
-├── computer_builds
-│   ├── __init__.py
-│   ├── models
-│   │   └── resources.py
-│   ├── tests
-│   │   ├── test_cpu.py
-│   │   ├── test_gpu.py
-│   │   ├── test_hdd.py
-│   │   ├── test_resources.py
-│   │   ├── test_ssd.py
-│   │   ├── test_storage.py
-│   │   └── test_validators.py
-│   └── utils
-│       └── validators.py
-├── conftest.py
-└── main.py
