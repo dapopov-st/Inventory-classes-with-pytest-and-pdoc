@@ -3,6 +3,8 @@ The channel has a pool of inventory, (for example 5 x AMD Ryzen 2-2700 CPUs) use
 When a CPU is taken from the pool, it will be indicated using the object that tracks that 
 specific type of CPU. The channel may also purchase additional CPUs, or retire some.
 
+The base class is a general Resource. This class provides functionality common to all of the resources (CPU, GPU, Memory, HDD, SSD).  Please see the [Documentation](https://dapopov-st.github.io/Inventory-classes-with-pytest-and-pdoc/#Resources.category) to learn about the available methods.
+
 The tests are performed with Pytest.  To run these, navigate to the root project directory and type 
 ```bash 
 pytest 
