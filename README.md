@@ -11,7 +11,8 @@ in a shell.
 
 Documentation can be generated at the command line by running
 ```bash 
-pip install pdoc``` 
+pip install pdoc
+``` 
 (if not already installed), then
 ```bash 
 pdoc resources.py 
