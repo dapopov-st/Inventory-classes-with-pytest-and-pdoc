@@ -10,8 +10,13 @@ pytest
 in a shell.
 
 Documentation can be generated at the command line by running
-```console pip install pdoc``` (if not already installed), then
-```console pdoc resources.py ```from computer_builds/models directory
+```bash 
+pip install pdoc``` 
+(if not already installed), then
+```bash 
+pdoc resources.py 
+```
+from computer_builds/models directory
 
 
 [Documentation](https://dapopov-st.github.io/Inventory-classes-with-pytest-and-pdoc/#Resources.category)
