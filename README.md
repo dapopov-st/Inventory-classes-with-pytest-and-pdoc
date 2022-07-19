@@ -6,7 +6,7 @@ specific type of CPU. Channel may also purchase additional CPUs, or retire some.
 The tests are performed with Pytest.
 
 Documentation can be generated at the command line by running
-pip install pdoc (if not already installed), then
+```bash pip install pdoc``` (if not already installed), then
 pdoc resources.py from computer_builds/models directory
 
 
