@@ -21,6 +21,15 @@ pdoc resources.py
 ```
 from computer_builds/models directory
 
+To run the a Docker container, git clone this repository, navigate into it,  and run 
+```bash 
+docker build -t inventory .
+```
+then
+```bash 
+docker run inventory .
+```
+
 
 [Documentation](https://dapopov-st.github.io/Inventory-classes-with-pytest-and-pdoc/#Resources.category)
 <br/>The directory structure is below. The `__init__.py` files are not strictly necessary, but help with pytest and pdoc usage.
