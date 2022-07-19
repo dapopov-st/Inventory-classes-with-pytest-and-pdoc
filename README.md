@@ -27,7 +27,7 @@ docker build -t inventory .
 ```
 then
 ```bash 
-docker run inventory .
+docker run inventory 
 ```
 
 
