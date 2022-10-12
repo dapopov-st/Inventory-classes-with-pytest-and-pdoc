@@ -34,7 +34,7 @@ docker run inventory
 [Documentation](https://dapopov-st.github.io/Inventory-classes-with-pytest-and-pdoc/#Resources.category)
 <br/>The directory structure is below. The `__init__.py` files are not strictly necessary, but help with pytest and pdoc usage.
 
-![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/main/directory_struct.png?raw=true)
+![alt text](https://github.com/dapopov-st/Inventory-classes-with-pytest-and-pdoc/blob/main/directory_tree.png?raw=true)
 
 Many thanks to Fred [Baptiste](https://www.udemy.com/user/fredbaptiste/) for problem description and teaching many of the necessary techniques
 
